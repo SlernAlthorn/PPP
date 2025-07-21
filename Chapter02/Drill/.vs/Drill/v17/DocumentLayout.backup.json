@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmation\\PPP\\Chapter02\\Drill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9FB55E-2BCD-4636-9410-65C6D75664A5}|Drill\\Drill.vcxproj|D:\\Programmation\\PPP\\Chapter02\\Drill\\Drill\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F9FB55E-2BCD-4636-9410-65C6D75664A5}|Drill\\Drill.vcxproj|solutionrelative:Drill\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\Programmation\\PPP\\Chapter02\\Drill\\Drill\\source.cpp",
+              "RelativeDocumentMoniker": "Drill\\source.cpp",
+              "ToolTip": "D:\\Programmation\\PPP\\Chapter02\\Drill\\Drill\\source.cpp*",
+              "RelativeToolTip": "Drill\\source.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-21T12:38:30.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
